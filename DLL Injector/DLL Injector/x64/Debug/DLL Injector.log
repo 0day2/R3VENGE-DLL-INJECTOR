@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\79180\source\repos\DLL Injector\DLL Injector\main.cpp(48,33): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\79180\source\repos\DLL Injector\DLL Injector\main.cpp(85): warning C4715: InjectDLL: значение возвращается не при всех путях выполнения
+  DLL Injector.vcxproj -> C:\Users\79180\source\repos\DLL Injector\x64\Debug\DLL Injector.exe
